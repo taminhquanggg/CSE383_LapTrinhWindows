@@ -1,0 +1,14 @@
+D:\project\CSharp\QuanLyThuVienBTL\QuanLyThuVienBTL\bin\Debug\QuanLyThuVienBTL.exe.config
+D:\project\CSharp\QuanLyThuVienBTL\QuanLyThuVienBTL\bin\Debug\QuanLyThuVienBTL.exe
+D:\project\CSharp\QuanLyThuVienBTL\QuanLyThuVienBTL\bin\Debug\QuanLyThuVienBTL.pdb
+D:\project\CSharp\QuanLyThuVienBTL\QuanLyThuVienBTL\obj\Debug\QuanLyThuVienBTL.csproj.AssemblyReference.cache
+D:\project\CSharp\QuanLyThuVienBTL\QuanLyThuVienBTL\obj\Debug\QuanLyThuVienBTL.csproj.SuggestedBindingRedirects.cache
+D:\project\CSharp\QuanLyThuVienBTL\QuanLyThuVienBTL\obj\Debug\QuanLyThuVienBTL.Properties.Resources.resources
+D:\project\CSharp\QuanLyThuVienBTL\QuanLyThuVienBTL\obj\Debug\QuanLyThuVienBTL.csproj.GenerateResource.cache
+D:\project\CSharp\QuanLyThuVienBTL\QuanLyThuVienBTL\obj\Debug\QuanLyThuVienBTL.csproj.CoreCompileInputs.cache
+D:\project\CSharp\QuanLyThuVienBTL\QuanLyThuVienBTL\obj\Debug\QuanLyThuVienBTL.exe
+D:\project\CSharp\QuanLyThuVienBTL\QuanLyThuVienBTL\obj\Debug\QuanLyThuVienBTL.pdb
+D:\project\CSharp\QuanLyThuVienBTL\QuanLyThuVienBTL\obj\Debug\QuanLyThuVienBTL.LoginForm.resources
+D:\project\CSharp\QuanLyThuVienBTL\QuanLyThuVienBTL\obj\Debug\QuanLyThuVienBTL.MainForm.resources
+D:\project\CSharp\QuanLyThuVienBTL\QuanLyThuVienBTL\obj\Debug\QuanLyThuVienBTL.InfoTypeOfBookForm.resources
+D:\project\CSharp\QuanLyThuVienBTL\QuanLyThuVienBTL\obj\Debug\QuanLyThuVienBTL.InfoBookForm.resources

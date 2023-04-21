@@ -1,0 +1,11 @@
+D:\project\CSharp\QuanLyXeKhach\QuanLyXeKhach\bin\Debug\QuanLyXeKhach.exe.config
+D:\project\CSharp\QuanLyXeKhach\QuanLyXeKhach\bin\Debug\QuanLyXeKhach.exe
+D:\project\CSharp\QuanLyXeKhach\QuanLyXeKhach\bin\Debug\QuanLyXeKhach.pdb
+D:\project\CSharp\QuanLyXeKhach\QuanLyXeKhach\obj\Debug\QuanLyXeKhach.csproj.AssemblyReference.cache
+D:\project\CSharp\QuanLyXeKhach\QuanLyXeKhach\obj\Debug\QuanLyXeKhach.csproj.SuggestedBindingRedirects.cache
+D:\project\CSharp\QuanLyXeKhach\QuanLyXeKhach\obj\Debug\QuanLyXeKhach.Form1.resources
+D:\project\CSharp\QuanLyXeKhach\QuanLyXeKhach\obj\Debug\QuanLyXeKhach.Properties.Resources.resources
+D:\project\CSharp\QuanLyXeKhach\QuanLyXeKhach\obj\Debug\QuanLyXeKhach.csproj.GenerateResource.cache
+D:\project\CSharp\QuanLyXeKhach\QuanLyXeKhach\obj\Debug\QuanLyXeKhach.csproj.CoreCompileInputs.cache
+D:\project\CSharp\QuanLyXeKhach\QuanLyXeKhach\obj\Debug\QuanLyXeKhach.exe
+D:\project\CSharp\QuanLyXeKhach\QuanLyXeKhach\obj\Debug\QuanLyXeKhach.pdb

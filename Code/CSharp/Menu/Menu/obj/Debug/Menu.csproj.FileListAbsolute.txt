@@ -1,0 +1,11 @@
+D:\project\CSharp\Menu\Menu\bin\Debug\Menu.exe.config
+D:\project\CSharp\Menu\Menu\bin\Debug\Menu.exe
+D:\project\CSharp\Menu\Menu\bin\Debug\Menu.pdb
+D:\project\CSharp\Menu\Menu\obj\Debug\Menu.csproj.AssemblyReference.cache
+D:\project\CSharp\Menu\Menu\obj\Debug\Menu.csproj.SuggestedBindingRedirects.cache
+D:\project\CSharp\Menu\Menu\obj\Debug\Menu.Form1.resources
+D:\project\CSharp\Menu\Menu\obj\Debug\Menu.Properties.Resources.resources
+D:\project\CSharp\Menu\Menu\obj\Debug\Menu.csproj.GenerateResource.cache
+D:\project\CSharp\Menu\Menu\obj\Debug\Menu.csproj.CoreCompileInputs.cache
+D:\project\CSharp\Menu\Menu\obj\Debug\Menu.exe
+D:\project\CSharp\Menu\Menu\obj\Debug\Menu.pdb

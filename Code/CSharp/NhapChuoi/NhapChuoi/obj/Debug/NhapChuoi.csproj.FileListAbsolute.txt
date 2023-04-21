@@ -1,0 +1,11 @@
+D:\project\CSharp\NhapChuoi\NhapChuoi\bin\Debug\NhapChuoi.exe.config
+D:\project\CSharp\NhapChuoi\NhapChuoi\bin\Debug\NhapChuoi.exe
+D:\project\CSharp\NhapChuoi\NhapChuoi\bin\Debug\NhapChuoi.pdb
+D:\project\CSharp\NhapChuoi\NhapChuoi\obj\Debug\NhapChuoi.csproj.AssemblyReference.cache
+D:\project\CSharp\NhapChuoi\NhapChuoi\obj\Debug\NhapChuoi.csproj.SuggestedBindingRedirects.cache
+D:\project\CSharp\NhapChuoi\NhapChuoi\obj\Debug\NhapChuoi.Form1.resources
+D:\project\CSharp\NhapChuoi\NhapChuoi\obj\Debug\NhapChuoi.Properties.Resources.resources
+D:\project\CSharp\NhapChuoi\NhapChuoi\obj\Debug\NhapChuoi.csproj.GenerateResource.cache
+D:\project\CSharp\NhapChuoi\NhapChuoi\obj\Debug\NhapChuoi.csproj.CoreCompileInputs.cache
+D:\project\CSharp\NhapChuoi\NhapChuoi\obj\Debug\NhapChuoi.exe
+D:\project\CSharp\NhapChuoi\NhapChuoi\obj\Debug\NhapChuoi.pdb

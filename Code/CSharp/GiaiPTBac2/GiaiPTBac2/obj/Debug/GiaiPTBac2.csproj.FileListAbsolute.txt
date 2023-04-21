@@ -1,0 +1,8 @@
+D:\project\CSharp\GiaiPTBac2\GiaiPTBac2\bin\Debug\GiaiPTBac2.exe.config
+D:\project\CSharp\GiaiPTBac2\GiaiPTBac2\bin\Debug\GiaiPTBac2.exe
+D:\project\CSharp\GiaiPTBac2\GiaiPTBac2\bin\Debug\GiaiPTBac2.pdb
+D:\project\CSharp\GiaiPTBac2\GiaiPTBac2\obj\Debug\GiaiPTBac2.Form1.resources
+D:\project\CSharp\GiaiPTBac2\GiaiPTBac2\obj\Debug\GiaiPTBac2.Properties.Resources.resources
+D:\project\CSharp\GiaiPTBac2\GiaiPTBac2\obj\Debug\GiaiPTBac2.csproj.GenerateResource.cache
+D:\project\CSharp\GiaiPTBac2\GiaiPTBac2\obj\Debug\GiaiPTBac2.exe
+D:\project\CSharp\GiaiPTBac2\GiaiPTBac2\obj\Debug\GiaiPTBac2.pdb

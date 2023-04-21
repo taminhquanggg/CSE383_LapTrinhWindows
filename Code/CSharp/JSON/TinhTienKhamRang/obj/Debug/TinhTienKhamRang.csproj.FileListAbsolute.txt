@@ -1,0 +1,14 @@
+D:\project\CSharp\JSON\TinhTienKhamRang\bin\Debug\TinhTienKhamRang.exe.config
+D:\project\CSharp\JSON\TinhTienKhamRang\bin\Debug\TinhTienKhamRang.exe
+D:\project\CSharp\JSON\TinhTienKhamRang\bin\Debug\TinhTienKhamRang.pdb
+D:\project\CSharp\JSON\TinhTienKhamRang\obj\Debug\TinhTienKhamRang.csproj.AssemblyReference.cache
+D:\project\CSharp\JSON\TinhTienKhamRang\obj\Debug\TinhTienKhamRang.csproj.SuggestedBindingRedirects.cache
+D:\project\CSharp\JSON\TinhTienKhamRang\obj\Debug\TinhTienKhamRang.Form1.resources
+D:\project\CSharp\JSON\TinhTienKhamRang\obj\Debug\TinhTienKhamRang.Properties.Resources.resources
+D:\project\CSharp\JSON\TinhTienKhamRang\obj\Debug\TinhTienKhamRang.csproj.GenerateResource.cache
+D:\project\CSharp\JSON\TinhTienKhamRang\obj\Debug\TinhTienKhamRang.csproj.CoreCompileInputs.cache
+D:\project\CSharp\JSON\TinhTienKhamRang\obj\Debug\TinhTienKhamRang.exe
+D:\project\CSharp\JSON\TinhTienKhamRang\obj\Debug\TinhTienKhamRang.pdb
+D:\project\CSharp\JSON\TinhTienKhamRang\bin\Debug\Newtonsoft.Json.dll
+D:\project\CSharp\JSON\TinhTienKhamRang\bin\Debug\Newtonsoft.Json.xml
+D:\project\CSharp\JSON\TinhTienKhamRang\obj\Debug\TinhTienKhamRang.csproj.CopyComplete

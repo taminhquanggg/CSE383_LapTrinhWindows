@@ -1,0 +1,11 @@
+D:\project\CSharp\ChuongTrinhNhapSo\ChuongTrinhNhapSo\bin\Debug\ChuongTrinhNhapSo.exe.config
+D:\project\CSharp\ChuongTrinhNhapSo\ChuongTrinhNhapSo\bin\Debug\ChuongTrinhNhapSo.exe
+D:\project\CSharp\ChuongTrinhNhapSo\ChuongTrinhNhapSo\bin\Debug\ChuongTrinhNhapSo.pdb
+D:\project\CSharp\ChuongTrinhNhapSo\ChuongTrinhNhapSo\obj\Debug\ChuongTrinhNhapSo.csproj.AssemblyReference.cache
+D:\project\CSharp\ChuongTrinhNhapSo\ChuongTrinhNhapSo\obj\Debug\ChuongTrinhNhapSo.csproj.SuggestedBindingRedirects.cache
+D:\project\CSharp\ChuongTrinhNhapSo\ChuongTrinhNhapSo\obj\Debug\ChuongTrinhNhapSo.Form1.resources
+D:\project\CSharp\ChuongTrinhNhapSo\ChuongTrinhNhapSo\obj\Debug\ChuongTrinhNhapSo.Properties.Resources.resources
+D:\project\CSharp\ChuongTrinhNhapSo\ChuongTrinhNhapSo\obj\Debug\ChuongTrinhNhapSo.csproj.GenerateResource.cache
+D:\project\CSharp\ChuongTrinhNhapSo\ChuongTrinhNhapSo\obj\Debug\ChuongTrinhNhapSo.csproj.CoreCompileInputs.cache
+D:\project\CSharp\ChuongTrinhNhapSo\ChuongTrinhNhapSo\obj\Debug\ChuongTrinhNhapSo.exe
+D:\project\CSharp\ChuongTrinhNhapSo\ChuongTrinhNhapSo\obj\Debug\ChuongTrinhNhapSo.pdb

@@ -1,0 +1,9 @@
+D:\project\CSharp\TinhDiem\TinhDiem\bin\Debug\TinhDiem.exe.config
+D:\project\CSharp\TinhDiem\TinhDiem\bin\Debug\TinhDiem.exe
+D:\project\CSharp\TinhDiem\TinhDiem\bin\Debug\TinhDiem.pdb
+D:\project\CSharp\TinhDiem\TinhDiem\obj\Debug\TinhDiem.Form1.resources
+D:\project\CSharp\TinhDiem\TinhDiem\obj\Debug\TinhDiem.Properties.Resources.resources
+D:\project\CSharp\TinhDiem\TinhDiem\obj\Debug\TinhDiem.csproj.GenerateResource.cache
+D:\project\CSharp\TinhDiem\TinhDiem\obj\Debug\TinhDiem.exe
+D:\project\CSharp\TinhDiem\TinhDiem\obj\Debug\TinhDiem.pdb
+D:\project\CSharp\TinhDiem\TinhDiem\obj\Debug\TinhDiem.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+D:\project\CSharp\BanPhimAo\BanPhimAo\bin\Debug\BanPhimAo.exe.config
+D:\project\CSharp\BanPhimAo\BanPhimAo\bin\Debug\BanPhimAo.exe
+D:\project\CSharp\BanPhimAo\BanPhimAo\bin\Debug\BanPhimAo.pdb
+D:\project\CSharp\BanPhimAo\BanPhimAo\obj\Debug\BanPhimAo.csproj.AssemblyReference.cache
+D:\project\CSharp\BanPhimAo\BanPhimAo\obj\Debug\BanPhimAo.csproj.SuggestedBindingRedirects.cache
+D:\project\CSharp\BanPhimAo\BanPhimAo\obj\Debug\BanPhimAo.Form1.resources
+D:\project\CSharp\BanPhimAo\BanPhimAo\obj\Debug\BanPhimAo.Properties.Resources.resources
+D:\project\CSharp\BanPhimAo\BanPhimAo\obj\Debug\BanPhimAo.csproj.GenerateResource.cache
+D:\project\CSharp\BanPhimAo\BanPhimAo\obj\Debug\BanPhimAo.csproj.CoreCompileInputs.cache
+D:\project\CSharp\BanPhimAo\BanPhimAo\obj\Debug\BanPhimAo.exe
+D:\project\CSharp\BanPhimAo\BanPhimAo\obj\Debug\BanPhimAo.pdb

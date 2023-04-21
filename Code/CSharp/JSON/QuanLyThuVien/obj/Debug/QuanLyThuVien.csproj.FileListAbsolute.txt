@@ -1,0 +1,14 @@
+D:\project\CSharp\JSON\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.config
+D:\project\CSharp\JSON\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+D:\project\CSharp\JSON\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+D:\project\CSharp\JSON\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.AssemblyReference.cache
+D:\project\CSharp\JSON\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.SuggestedBindingRedirects.cache
+D:\project\CSharp\JSON\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+D:\project\CSharp\JSON\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.GenerateResource.cache
+D:\project\CSharp\JSON\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CoreCompileInputs.cache
+D:\project\CSharp\JSON\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+D:\project\CSharp\JSON\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+D:\project\CSharp\JSON\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form1.resources
+D:\project\CSharp\JSON\QuanLyThuVien\bin\Debug\Newtonsoft.Json.dll
+D:\project\CSharp\JSON\QuanLyThuVien\bin\Debug\Newtonsoft.Json.xml
+D:\project\CSharp\JSON\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CopyComplete

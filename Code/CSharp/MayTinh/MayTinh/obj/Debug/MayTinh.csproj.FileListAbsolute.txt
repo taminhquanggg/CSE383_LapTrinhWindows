@@ -1,0 +1,10 @@
+D:\project\CSharp\MayTinh\MayTinh\bin\Debug\MayTinh.exe.config
+D:\project\CSharp\MayTinh\MayTinh\bin\Debug\MayTinh.exe
+D:\project\CSharp\MayTinh\MayTinh\bin\Debug\MayTinh.pdb
+D:\project\CSharp\MayTinh\MayTinh\obj\Debug\MayTinh.csproj.AssemblyReference.cache
+D:\project\CSharp\MayTinh\MayTinh\obj\Debug\MayTinh.Form1.resources
+D:\project\CSharp\MayTinh\MayTinh\obj\Debug\MayTinh.Properties.Resources.resources
+D:\project\CSharp\MayTinh\MayTinh\obj\Debug\MayTinh.csproj.GenerateResource.cache
+D:\project\CSharp\MayTinh\MayTinh\obj\Debug\MayTinh.csproj.CoreCompileInputs.cache
+D:\project\CSharp\MayTinh\MayTinh\obj\Debug\MayTinh.exe
+D:\project\CSharp\MayTinh\MayTinh\obj\Debug\MayTinh.pdb

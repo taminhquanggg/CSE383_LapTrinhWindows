@@ -1,0 +1,9 @@
+D:\project\CSharp\CongTruNhanChia\CongTruNhanChia\bin\Debug\CongTruNhanChia.exe.config
+D:\project\CSharp\CongTruNhanChia\CongTruNhanChia\bin\Debug\CongTruNhanChia.exe
+D:\project\CSharp\CongTruNhanChia\CongTruNhanChia\bin\Debug\CongTruNhanChia.pdb
+D:\project\CSharp\CongTruNhanChia\CongTruNhanChia\obj\Debug\CongTruNhanChia.Form1.resources
+D:\project\CSharp\CongTruNhanChia\CongTruNhanChia\obj\Debug\CongTruNhanChia.Properties.Resources.resources
+D:\project\CSharp\CongTruNhanChia\CongTruNhanChia\obj\Debug\CongTruNhanChia.csproj.GenerateResource.cache
+D:\project\CSharp\CongTruNhanChia\CongTruNhanChia\obj\Debug\CongTruNhanChia.exe
+D:\project\CSharp\CongTruNhanChia\CongTruNhanChia\obj\Debug\CongTruNhanChia.pdb
+D:\project\CSharp\CongTruNhanChia\CongTruNhanChia\obj\Debug\CongTruNhanChia.csprojResolveAssemblyReference.cache

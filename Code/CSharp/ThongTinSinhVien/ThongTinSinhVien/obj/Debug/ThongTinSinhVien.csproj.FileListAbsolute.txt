@@ -1,0 +1,14 @@
+D:\project\CSharp\ThongTinSinhVien\ThongTinSinhVien\bin\Debug\ThongTinSinhVien.exe.config
+D:\project\CSharp\ThongTinSinhVien\ThongTinSinhVien\bin\Debug\ThongTinSinhVien.exe
+D:\project\CSharp\ThongTinSinhVien\ThongTinSinhVien\bin\Debug\ThongTinSinhVien.pdb
+D:\project\CSharp\ThongTinSinhVien\ThongTinSinhVien\obj\Debug\ThongTinSinhVien.csproj.AssemblyReference.cache
+D:\project\CSharp\ThongTinSinhVien\ThongTinSinhVien\obj\Debug\ThongTinSinhVien.csproj.SuggestedBindingRedirects.cache
+D:\project\CSharp\ThongTinSinhVien\ThongTinSinhVien\obj\Debug\ThongTinSinhVien.Form1.resources
+D:\project\CSharp\ThongTinSinhVien\ThongTinSinhVien\obj\Debug\ThongTinSinhVien.Properties.Resources.resources
+D:\project\CSharp\ThongTinSinhVien\ThongTinSinhVien\obj\Debug\ThongTinSinhVien.csproj.GenerateResource.cache
+D:\project\CSharp\ThongTinSinhVien\ThongTinSinhVien\obj\Debug\ThongTinSinhVien.csproj.CoreCompileInputs.cache
+D:\project\CSharp\ThongTinSinhVien\ThongTinSinhVien\obj\Debug\ThongTinSinhVien.exe
+D:\project\CSharp\ThongTinSinhVien\ThongTinSinhVien\obj\Debug\ThongTinSinhVien.pdb
+D:\project\CSharp\ThongTinSinhVien\ThongTinSinhVien\bin\Debug\Newtonsoft.Json.dll
+D:\project\CSharp\ThongTinSinhVien\ThongTinSinhVien\bin\Debug\Newtonsoft.Json.xml
+D:\project\CSharp\ThongTinSinhVien\ThongTinSinhVien\obj\Debug\ThongTinSinhVien.csproj.CopyComplete
